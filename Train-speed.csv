@@ -1,0 +1,69 @@
+Train_No,Train_Name,Avg_Speed,Rating,Punctuality,Cleanliness,Food,Availability,Safety
+12213/12214,Yeshvantapur - Delhi Sarai Rohilla AC Duronto Express,75.64,4.6,Good,Excellent,Good,Excellent,Excellent
+12219/12220,Lokmanya Tilak Terminus - Secunderabad AC Duronto Express,64.38,4.6,Excellent,Excellent,Good,Excellent,Good
+12221/12222,Pune - Howrah Duronto Express,72.42,4.6,Excellent,Excellent,Good,Good,Excellent
+12223/12224,Lokmanya Tilak Terminus - Ernakulam Duronto Express,60,4.6,Excellent,Good,Good,Excellent,Excellent
+12227/12228,Mumbai Central - Indore Duronto Express,65.99,4.8,Excellent,Excellent,Good,Excellent,Excellent
+12239/12240,Mumbai - Hisar AC Duronto Express,76,5,Excellent,Excellent,Excellent,Excellent,Excellent
+12245/12246,Howrah - Yeshvantapur Duronto Express,67.59,3.8,Excellent,Good,Good,Average,Good
+12259/12260,Sealdah-Bikaner Duronto Express,75.3,4.6,Good,Excellent,Excellent,Good,Excellent
+12261/12262,Mumbai CST - Howrah Duronto Express,75,4.4,Good,Excellent,Good,Good,Excellent
+12263/12264,Hazrat Nizamuddin - Pune Duronto Express,76,4.6,Excellent,Excellent,Good,Good,Excellent
+12265/12266,Delhi Sarai Rohilla - Jammu Tawi Duronto Express,64.38,4.7,Excellent,Excellent,Average,Excellent,Excellent
+12267/12268,Mumbai Central - Hapa Duronto Express,77.24,3.8,Good,Good,Good,Good,Good
+12269/12270,Chennai - Hazrat Nizamuddin Duronto Express,78,4.4,Good,Good,Good,Excellent,Excellent
+12273/12274,Howrah - New Delhi Duronto Express,71,3.5,Average,Good,Good,Good,Good
+12281/12282,Bhubaneswar - New Delhi Duronto Express,77,3.9,Good,Good,Good,Good,Excellent
+12283/12284,Ernakulam - H.Nizamuddin Duronto Express,64,4.4,Excellent,Good,Good,Excellent,Good
+12285/12286,Secunderabad - Hazrat Nizamuddin Duronto Express,78,4.4,Excellent,Good,Good,Good,Excellent
+12289/12290,Nagpur Duronto Express,74,4.5,Excellent,Excellent,Average,Good,Excellent
+12293/12294,Lokmanya Tilak Terminus - Allahabad Duronto Express,70,4.6,Excellent,Excellent,Good,Good,Excellent
+12297/12298,Ahmedabad - Pune Duronto Express,71,3.6,Good,Good,Poor,Good,Good
+22201/22202,Sealdah - Puri Duronto Express,64,4.4,Excellent,Excellent,Good,Good,Excellent
+22203/22204,Visakhapatnam - Secunderabad Duronto Express,73,4.4,Good,Excellent,Good,Good,Excellent
+22213/22214,Kolkata Shalimar - Patna Duronto Express,62,4.8,Excellent,Excellent,Good,Excellent,Excellent
+22209/22210,Mumbai - New Delhi Duronto Express,82,4.6,Excellent,Excellent,Good,Good,Excellent
+12423/12424,Dibrugarh Town Rajdhani Express (via Barauni),75,4.2,Excellent,Good,Good,Average,Excellent
+20505/20506,Dibrugarh Rajdhani Express (via Bogibeel Bridge),68,3.9,Excellent,Good,Good,Availability,Excellent
+20503/20504,Dibrugarh Rajdhani Express (via Moranhat),68,4.8,Excellent,Excellent,Excellent,Good,Excellent
+12441/12442,Bilaspur Rajdhani,74,4,Good,Good,Good,Excellent,Good
+22413/22414,Madgaon Rajdhani,71,4.3,Good,Good,Good,Good,Excellent
+12957/12958,Swarna Jayanti Rajdhani,68,3.3,Average,Good,Average,Good,Good
+12425/12426,Jammu Tawi Rajdhani,64,4.6,Excellent,Excellent,Good,Good,Excellent
+20839/20840,Ranchi Rajdhani (via Bokaro),74,4.8,Excellent,Excellent,Good,Excellent,Excellent
+12453/12454,Ranchi Rajdhani (via Daltonganj),76,4.8,Excellent,Excellent,Good,Excellent,Excellent
+22691/22692,Bengaluru Rajdhani,70,4.4,Excellent,Good,Good,Good,Excellent
+12431/12432,Thiruvananthapuram Rajdhani,74,4.4,Excellent,Good,Good,Good,Excellent
+22221/22222,Mumbai CSMT Rajdhani,86,4.8,Excellent,Excellent,Good,Excellent,Excellent
+22811/22812,Bhubaneswar Rajdhani (via Adra),76,4.6,Excellent,Excellent,Good,Good,Excellent
+22823/22824,Bhubaneswar Rajdhani (via Bokaro),74,4.4,Excellent,Good,Good,Good,Excellent
+20817/20818,Bhubaneswar Rajdhani (via Rourkela ),71,4.6,Good,Excellent,Good,Excellent,Excellent
+12433/12434,Chennai Rajdhani,77,4.2,Good,Good,Good,Good,Excellent
+12437/12438,Secunderabad Rajdhani,76,4.8,Excellent,Excellent,Good,Excellent,Excellent
+12301/12302,Howrah Rajdhani (via Gaya),85,4.6,Excellent,Excellent,Good,Good,Excellent
+12305/12306,Howrah Rajdhani (via Patna),79,4.6,Excellent,Excellent,Good,Good,Excellent
+12313/12314,Sealdah Rajdhani,81,4.6,Excellent,Excellent,Good,Good,Excellent
+12309/12310,Rajendra Nagar - New Delhi Tejas Rajdhani Special,80,4.6,Excellent,Excellent,Good,Good,Excellent
+12951/12952,Mumbai Tejas - Rajdhani Special,90,4.6,Excellent,Excellent,Good,Good,Excellent
+12953/12954,August Kranti Tejas Rajdhani Special,79,4.6,Excellent,Excellent,Good,Good,Excellent
+20501/20502,Agartala Tejas Rajdhani Special,59,4.2,Good,Excellent,Good,Good,Excellent
+12001/12002,Habibganj - New Delhi Shatabdi Express,89,4.6,Good,Excellent,Good,Excellent,Excellent
+12259/12260,Sealdah - Bikaner Duronto Express,85,4.6,Good,Excellent,Good,Excellent,Excellent
+12951/12952,Mumbai Rajdhani Express,91.3,4.6,Excellent,Excellent,Good,Good,Excellent
+22119/22120,Mumbai CSMT - Karmali Tejas Express,66.8,4.6,Excellent,Excellent,Good,Good,Excellent
+82501/82502,Lucknow - New Delhi Tejas Express,83,3.9,Good,Good,Good,Good,Excellent
+22671/22672,Chennai Egmore - Madurai Tejas Express,78,4.4,Excellent,Good,Good,Good,Excellent
+82901/82902,Ahmedabad - Mumbai Central Tejas Express,78,3.9,Good,Good,Good,Good,Good
+12301/12302,Howrah Rajdhani Express (via Gaya),85,4.6,Excellent,Excellent,Good,Good,Excellent
+12305/12306,Howrah Rajdhani Express (via Patna),85,4.6,Excellent,Excellent,Good,Good,Excellent
+12019/12020,Howrah - Ranchi Shatabdi Express,74,5,Excellent,Excellent,Excellent,Excellent,Excellent
+82355/82356,Patna - Mumbai CST Suvidha Superfast Express,63,4.8,Excellent,Excellent,Good,Excellent,Excellent
+12909/12910,Bandra Terminus - Hazrat Nizamuddin Garib Rath Express,82,4.2,Excellent,Good,Good,Good,Good
+12267/12268,Mumbai Central - Rajkot Duronto Express,76,3.8,Good,Good,Good,Good,Good
+12059/12060,Kota - Hazrat Nizamuddin Jan Shatabdi Express,71,4.8,Excellent,Excellent,Good,Excellent,Excellent
+12907/12908,Maharashtra Sampark Kranti Express,69,4.8,Excellent,Excellent,Good,Excellent,Excellent
+12931/12932,Mumbai Central - Ahmedabad Double Decker Express,69,4.6,Good,Excellent,Good,Excellent,Excellent
+20805/20806,Visakhapatnam - New Delhi AP Express,76,4.2,Good,Good,Good,Excellent,Good
+12451/12452,Shram Shakti Express,67,4.5,Excellent,Excellent,Good,Good,Excellent
+17235/17236,KSR Bengaluru - Nagercoil Express,45,3.6,Good,Good,Average,Good,Good
+12049/12050,Gatimaan Express,,,,,,,
